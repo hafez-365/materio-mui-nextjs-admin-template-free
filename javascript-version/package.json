@@ -1,6 +1,7 @@
 {
   "name": "next-app-test",
   "version": "0.1.0",
+  "packageManager": "pnpm@10.34.3",
   "license": "Commercial",
   "private": true,
   "scripts": {
